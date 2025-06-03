@@ -9,7 +9,7 @@ def credentials():
         'email': 'test@test.ru',
         'mobile': 7911888664,
         'date_birth': '12 june 1989',
-        'subject': 'Autotesting',
+        'subject': 'a',
         'current_address': 'Saint-Petersburg'
 }
 
